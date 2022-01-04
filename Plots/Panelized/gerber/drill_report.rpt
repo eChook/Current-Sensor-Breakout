@@ -1,0 +1,26 @@
+Drill report for Panelized.kicad_pcb
+Created on Tue Jan  4 13:58:26 2022
+
+Copper Layer Stackup:
+    =============================================================
+    L1 :  F.Cu                      front
+    L2 :  B.Cu                      back
+
+
+Drill file 'Panelized.drl' contains
+    plated through holes:
+    =============================================================
+    T1  0.700mm  0.0276"  (32 holes)
+    T2  0.800mm  0.0315"  (80 holes)
+    T3  1.500mm  0.0591"  (16 holes)
+    T4  3.000mm  0.1181"  (24 holes)
+
+    Total plated holes count 152
+
+
+Not plated through holes are merged with plated holes
+    unplated through holes:
+    =============================================================
+    T5  0.500mm  0.0197"  (96 holes)
+
+    Total unplated holes count 96

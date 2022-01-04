@@ -1,0 +1,25 @@
+Drill report for LEM_Breakout_Board.kicad_pcb
+Created on Tue Jan  4 09:55:11 2022
+
+Copper Layer Stackup:
+    =============================================================
+    L1 :  F.Cu                      front
+    L2 :  B.Cu                      back
+
+
+Drill file 'LEM_Breakout_Board-PTH.drl' contains
+    plated through holes:
+    =============================================================
+    T1  0.700mm  0.0276"  (4 holes)
+    T2  0.800mm  0.0315"  (10 holes)
+    T3  1.500mm  0.0591"  (2 holes)
+    T4  3.000mm  0.1181"  (3 holes)
+
+    Total plated holes count 19
+
+
+Drill file 'LEM_Breakout_Board-NPTH.drl' contains
+    unplated through holes:
+    =============================================================
+
+    Total unplated holes count 0
