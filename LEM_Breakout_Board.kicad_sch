@@ -2649,11 +2649,13 @@
 		)
 		(property "LCSC" "C1622"
 			(at 121.031 40.7416 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
 			)
 		)
 		(pin "1"
@@ -2738,11 +2740,13 @@
 		)
 		(property "LCSC" "C53987"
 			(at 117.221 78.8416 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
 			)
 		)
 		(pin "1"
@@ -2827,11 +2831,13 @@
 		)
 		(property "LCSC" "C1622"
 			(at 128.651 78.8416 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
 			)
 		)
 		(pin "1"
@@ -3648,7 +3654,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_0603_1608Metric"
+		(property "Footprint" "LED_SMD:LED_0805_2012Metric"
 			(at 128.27 36.83 0)
 			(hide yes)
 			(show_name no)
